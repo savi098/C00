@@ -8,3 +8,4 @@ if [ -f "$filename" ]; then
 fi 
 chmod +x check_file_exist.sh
 # ce code demande a l'utilisateur d'entrer le nom d'un fichier qu'il veut vérifier s'il existe ou pas .  
+# le -f vérifiée si c'est un fichier ordinaire
