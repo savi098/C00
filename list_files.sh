@@ -1,5 +1,6 @@
- #!/bin/bash
-echo " voici la liste des fichiers du repertoire courant:"
-ls 
-chmod +x list_files.sh 
-# ce code affiche la liste de tout les fichiers du repertoire courant  
+#!/bin/bash
+#le scrip qui affiche tout les fichiers du repertoir courant
+echo "les fichiers du repertoire courant sont :"
+ls -la
+#la commande ls permet de lister les fichiers courant et -la permet d'afficher tout les fichier y compris les cachés
+
