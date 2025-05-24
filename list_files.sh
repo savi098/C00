@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "voici la liste de tout les fichiers du repertoire courant"
+echo "les fichiers du repertoire courant sont :"
 ls -l
 # le script  affiche tout les fichiers du repertoir courant
-# la commande ls permet de lister les fichiers courant et -la permet d'afficher tout les fichier y compris les caches
+# la commande ls permet de lister les fichiers courant et -l permet d'afficher tout les fichier y compris les caches
 
